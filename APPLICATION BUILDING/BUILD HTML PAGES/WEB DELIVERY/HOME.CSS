@@ -1,0 +1,41 @@
+
+#note1{
+    background-color: rgba(128, 255, 0, 0.769);
+    color: deeppink;
+}
+#name{
+    color: green;
+    background-color: rgba(255, 217, 0, 0.269);
+    font-weight:bolder;
+}
+#about{
+text-align: justify;
+}
+#purpose{
+    color: darkblue;
+    background-color: rgba(222, 184, 135, 0.119);
+
+}
+#points{
+    background-color: rgba(222, 184, 135, 0.119);
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-stretch: normal;
+    text-align:justify;
+}
+#prodesign{
+    text-align: center;
+    color:darkblue;
+    background-color:rgba(222, 184, 135, 0.119) ;
+}
+.design img{
+    margin-left: 50;
+    margin-right: 0;
+}
+#contact{
+    color: darkgreen;
+}
+#feedback{
+    font-weight: bolder;
+    font-size: xx-large;
+}
